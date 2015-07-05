@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".PhotosListActivity">
+
+<item android:id="@+id/take_photo_action"
+        android:title="camera"
+        android:icon="@drawable/camera"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+
+</menu>

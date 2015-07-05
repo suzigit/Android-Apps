@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Art-and-Fun</string>
+
+    <string name="action_moma">More Information</string>
+    <string name="action_help">Help</string>
+    <string name="action_exit">Exit</string>
+    <string name="address_moma">http://www.moma.org/m/arts/81650</string>
+    <string name="text_current_position">You are here</string>
+    <string name="current_level">Current Level:</string>
+    <string name="choose_destination_level">Choose your Level:</string>
+    <string name="velocity">Choose Velocity:</string>
+    <string name="button_go_text">Go!</string>
+    <string name="help_title_message">How does it works?</string>
+    <string name="help_message">Besides been a beautiful art piece (MOMA inspired), this program is also fun!\nLike a lift, you choose a desired level, the velocity and then click Go! You will see a nice animation!</string>
+    <string name="help_positive_button">Ok</string>
+    <string name="best_level_election">Best level election</string>
+    <string name="best_level_title">Tell us what is the best level:</string>
+    <string name="level">Level</string>
+    <string name="best_level_final_message">"In your opinion, the best level is "</string>
+    <string name="best_level_positive_button">Ok</string>
+    <string name="best_level_negative_button">Cancel</string>
+    <string name="more_information_message">Inspired by the works of artists such as Richard Artscwager.\n\nClick here to learn more!</string>
+    <string name="more_information_positive_button">Visit MOMA</string>
+    <string name="more_information_negative_button">Not now</string>
+    <string name="label_change_color">Choose Colors:</string>
+
+
+
+
+</resources>

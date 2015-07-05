@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arte-e-Diversão</string>
+
+    <string name="action_moma">Mais Informações</string>
+    <string name="action_help">Ajuda</string>
+    <string name="action_exit">Sair</string>
+    <string name="address_moma">http://www.moma.org/m/arts/81650?locale=pt</string>
+    <string name="text_current_position">Você está aqui</string>
+    <string name="current_level">Andar Atual:</string>
+    <string name="choose_destination_level">Escolha seu Andar:</string>
+    <string name="velocity">Escolha Velocidade:</string>
+    <string name="button_go_text">Ir!</string>
+    <string name="help_title_message">Como funciona?</string>
+    <string name="help_message">Além de ser uma bela obra de arte (inspirada por obra do MOMA), este programa também é divertido!\nComo um elevador, você pode escolher um andar, uma velocidade e entäo clicar em Ir! Você verá uma bonita animação!</string>
+    <string name="help_positive_button">Ok</string>
+    <string name="best_level_election">Eleição de melhor andar</string>
+    <string name="best_level_title">Conte-nos qual o melhor andar:</string>
+    <string name="level">Andar</string>
+    <string name="best_level_final_message">"Na sua opinião o melhor andar é "</string>
+    <string name="best_level_positive_button">Ok</string>
+    <string name="best_level_negative_button">Cancelar</string>
+    <string name="more_information_message">Inspirado na obra de artistas como Richard Artscwager.\n\nClique aqui para aprender mais!</string>
+    <string name="more_information_positive_button">Visite MOMA</string>
+    <string name="more_information_negative_button">Agora não</string>
+    <string name="label_change_color">Escolha as Cores:</string>
+
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+    <string name="notification_text">Time for another selfie</string>
+    <string name="image_desc_string">Image in small scale</string>
+    <string name="title_activity_show_image">See details</string>
+
+</resources>
